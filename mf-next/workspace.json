@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "card": "apps/card",
+    "card-e2e": "apps/card-e2e",
+    "filter-dropdown": "apps/filter-dropdown",
+    "filter-dropdown-e2e": "apps/filter-dropdown-e2e",
+    "searchbar": "apps/searchbar",
+    "searchbar-e2e": "apps/searchbar-e2e",
+    "species": "apps/species",
+    "species-e2e": "apps/species-e2e"
+  }
+}
